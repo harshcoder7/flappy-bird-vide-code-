@@ -47,12 +47,3 @@ This project showcases how to structure an interactive browser game using modern
 
 ---
 
-## 🙌 Credits
-
-Created and designed by **Gemini** as a demonstration of React-powered browser games.
-
----
-
-## 📌 Tags
-
-#React &nbsp; #JavaScript &nbsp; #GameDev &nbsp; #FlappyBird &nbsp; #WebDevelopment &nbsp; #TailwindCSS &nbs
