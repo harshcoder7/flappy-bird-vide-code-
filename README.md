@@ -34,21 +34,16 @@ This project showcases how to structure an interactive browser game using modern
 4. Open [http://localhost:3000](http://localhost:3000) to play
 
 ---
-
 ## 📁 Project Structure
 
-/
-├── public/ # Static assets and index.html
-├── src/
-│ ├── components/ # Reusable game components
-│ ├── App.js # Root React component
-│ ├── index.js # React DOM render
-│ └── index.css # Tailwind and global styles
-└── package.json # Scripts and dependencies
-
-yaml
-Copy
-Edit
+- `public/` – Static assets and `index.html`
+- `src/`
+  - `components/` – Reusable game components
+  - `App.js` – Root React component
+  - `index.js` – React DOM render
+  - `index.css` – Tailwind and global styles
+- `package.json` – Project metadata and scripts
+- `README.md` – Project overview and instructions
 
 ---
 
